@@ -1,3 +1,7 @@
+Note: This is just an edited version of the Voicecord to work on Render.com website. I've noticied that with repl.it the Websocket error cancel the start while it is not the case on this website. It is necessary to define in the "Environment Variables" category these values: <b>TOKEN; CHANNEL_ID; GUILD_ID; SELF_DEAF; SELF_MUTE</b>, (Self Deaf ans Self Mute as True or False).
+
+
+
 <div id="SealedSaucer" align="center">
     <h1>Voicecord</h1>
     <p>Make Your Discord Account 24/7 On Voice Channels!</p>
